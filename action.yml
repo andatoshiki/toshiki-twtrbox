@@ -1,0 +1,9 @@
+name: toshiki-twtrbox
+author: Anda Toshiki <andatoshiki@outlook.com>
+description: Update a pinned gist to contain the latest tweets of a user
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
+branding:
+  icon: 'clipboard'
+  color: 'blue'
